@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "High On Heaven",
+  "base_artist": "Nessa Barrett",
+  "createdAt": "2026-02-22T19:27:08.936105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Rest High On That Mountain",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/01_Go_Rest_High_On_That_Mountain_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High On a Hill",
+      "artist": "The Little Ones",
+      "has_synced": false,
+      "path": "select/02_High_On_a_Hill_The_Little_Ones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High on a Mountain Top",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/03_High_on_a_Mountain_Top_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High On the Hill",
+      "artist": "Mike Peters",
+      "has_synced": false,
+      "path": "select/04_High_On_the_Hill_Mike_Peters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High On Cruel",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/05_High_On_Cruel_Neko_Case.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High on You",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/06_High_on_You_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High On the Flames",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/07_High_On_the_Flames_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High On You",
+      "artist": "Sigma feat. John Newman",
+      "has_synced": false,
+      "path": "select/08_High_On_You_Sigma_feat._John_Newman.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High on You",
+      "artist": "Sigma",
+      "has_synced": false,
+      "path": "select/09_High_on_You_Sigma.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High On You",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/10_High_On_You_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High on Love",
+      "artist": "Roachford",
+      "has_synced": false,
+      "path": "select/11_High_on_Love_Roachford.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High On the Heels",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/12_High_On_the_Heels_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High on Your Own Supply",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/13_High_on_Your_Own_Supply_Apollo_440.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High On Life",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/14_High_On_Life_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High On A Happy Vibe",
+      "artist": "Urban Cookie Collective",
+      "has_synced": false,
+      "path": "select/15_High_On_A_Happy_Vibe_Urban_Cookie_Collective.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High On You",
+      "artist": "Buzzy Lee",
+      "has_synced": false,
+      "path": "select/16_High_On_You_Buzzy_Lee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High On Heaven",
+      "artist": "Nessa Barrett",
+      "has_synced": false,
+      "path": "select/pl_01_High_On_Heaven_Nessa_Barrett.txt"
+    }
+  ]
+}
